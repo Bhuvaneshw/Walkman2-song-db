@@ -1,0 +1,9 @@
+{
+    title: "Hey, Soul Sister",
+    artist:"Train",
+    genere"neo mellow",
+    year:2010,
+    duration:217,
+    url:'https://walkman2-songs-db.netlify.app/songs/msong.mp3',
+    icon:'https://walkman2-songs-db.netlify.app/icons/msong.png',
+}
