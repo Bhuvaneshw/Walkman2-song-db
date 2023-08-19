@@ -46,7 +46,7 @@
 {
     "title": "Once Upon a Time",
     "artist":"Anirudh",
-    "genre":"",
+    "genre":"Pop",
     "year":2022,
     "duration":143,
     "url":"https://walkman2-songs-db.netlify.app/songs/Once Upon a Time.mp3",
@@ -57,7 +57,7 @@
 {
     "title": "Pathala Pathala",
     "artist":"Anirudh",
-    "genre":"",
+    "genre":"Dance",
     "year":2022,
     "duration":211,
     "url":"https://walkman2-songs-db.netlify.app/songs/Pathala Pathala.mp3",
@@ -68,7 +68,7 @@
 {
     "title": "Porkanda Singam",
     "artist":"Anirudh",
-    "genre":"",
+    "genre":"Motive",
     "year":2022,
     "duration":198,
     "url":"https://walkman2-songs-db.netlify.app/songs/Porkanda Singam.mp3",
@@ -79,7 +79,7 @@
 {
     "title": "Wasted",
     "artist":"Anirudh",
-    "genre":"",
+    "genre":"Electronic",
     "year":2022,
     "duration":182,
     "url":"https://walkman2-songs-db.netlify.app/songs/.mp3",
