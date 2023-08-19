@@ -1,0 +1,10 @@
+{
+    "title": "",
+    "artist":"",
+    "genre":"",
+    "year":,
+    "duration":,
+    "url":"https://walkman2-songs-db.netlify.app/songs/.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/.webp",
+    "likes":0
+},

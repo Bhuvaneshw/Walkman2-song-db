@@ -1,9 +1,92 @@
+[{
+    "title": "Alappara Theme",
+    "artist":"Anirudh",
+    "genre":"Theme",
+    "year":2023,
+    "duration":77,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Alappara-Theme.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/Jailer.webp",
+    "likes":0
+},
+
 {
-    "title": "Hey, Soul Sister",
-    "artist":"Train",
-    "genere":"neo mellow",
-    "year":2010,
-    "duration":217,
-    "url":"https://walkman2-songs-db.netlify.app/songs/msong.mp3",
-    "icon":"https://walkman2-songs-db.netlify.app/icons/msong.png"
-}
+    "title": "Hukum",
+    "artist":"Anirudh",
+    "genre":"Massy",
+    "year":2023,
+    "duration":207,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Hukum.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/Jailer.webp",
+    "likes":0
+},
+
+{
+    "title": "Jailer Drill Theme",
+    "artist":"Anirudh",
+    "genre":"Theme",
+    "year":2023,
+    "duration":43,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Jailer-Drill-Theme.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/Jailer.webp",
+    "likes":0
+},
+
+
+{
+    "title": "Muthuvel Pandian Theme",
+    "artist":"Anirudh",
+    "genre":"Theme",
+    "year":2023,
+    "duration":207,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Muthuvel-Pandian-Theme.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/Jailer.webp",
+    "likes":0
+},
+
+{
+    "title": "Once Upon a Time",
+    "artist":"Anirudh",
+    "genre":"",
+    "year":2022,
+    "duration":143,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Once Upon a Time.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/Vikram.webp",
+    "likes":0
+},
+
+{
+    "title": "Pathala Pathala",
+    "artist":"Anirudh",
+    "genre":"",
+    "year":2022,
+    "duration":211,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Pathala Pathala.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/Vikram.webp",
+    "likes":0
+},
+
+{
+    "title": "Porkanda Singam",
+    "artist":"Anirudh",
+    "genre":"",
+    "year":2022,
+    "duration":198,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Porkanda Singam.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/Vikram.webp",
+    "likes":0
+},
+
+{
+    "title": "Wasted",
+    "artist":"Anirudh",
+    "genre":"",
+    "year":2022,
+    "duration":182,
+    "url":"https://walkman2-songs-db.netlify.app/songs/.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/Vikram.webp",
+    "likes":0
+},
+
+
+
+]
