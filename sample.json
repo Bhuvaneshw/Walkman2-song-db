@@ -84,8 +84,227 @@
     "duration":182,
     "url":"https://walkman2-songs-db.netlify.app/songs/.mp3",
     "icon":"https://walkman2-songs-db.netlify.app/icons/Vikram.webp",
-    "likes":0
+    "likes":0,
+    "views":0,
+    "downloads":0
 },
+
+{
+    "title": "Devaralan Aattam",
+    "artist":"A R.Rahman",
+    "genre":"Drums",
+    "year":2022,
+    "duration":273,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Devaralan Aattam.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/ps.jpg",
+    "likes":0,
+    "views":0,
+    "downloads":0
+},
+
+{
+    "title": "Ponni Nadhi",
+    "artist":"A R.Rahman",
+    "genre":"Travel",
+    "year":2022,
+    "duration":290,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Ponni Nadhi.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/ps.jpg",
+    "likes":0,
+    "views":0,
+    "downloads":0
+},
+
+{
+    "title": "Ratchasa Maamaney",
+    "artist":"A R.Rahman",
+    "genre":"Scenic",
+    "year":2022,
+    "duration":289,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Ratchasa Maamaney.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/ps.jpg",
+    "likes":0,
+    "views":0,
+    "downloads":0
+},
+
+{
+    "title": "Sol",
+    "artist":"A R.Rahman",
+    "genre":"Love",
+    "year":2022,
+    "duration":134,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Sol.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/ps.jpg",
+    "likes":0,
+    "views":0,
+    "downloads":0
+},
+
+{
+    "title": "Kathari Poovazhagi",
+    "artist":"G.V.Prakash Kumar",
+    "genre":"Love",
+    "year":2019,
+    "duration":225,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Kathari Poovazhagi.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/Asuran.jpg",
+    "likes":0,
+    "views":0,
+    "downloads":0
+},
+
+{
+    "title": "Polladha Boomi",
+    "artist":"G.V.Prakash Kumar",
+    "genre":"Sorrow",
+    "year":2019,
+    "duration":237,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Polladha Boomi.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/Asuran.jpg",
+    "likes":0,
+    "views":0,
+    "downloads":0
+},
+
+{
+    "title": "The Blood Bath",
+    "artist":"G.V.Prakash Kumar",
+    "genre":"Anger",
+    "year":2019,
+    "duration":242,
+    "url":"https://walkman2-songs-db.netlify.app/songs/The Blood Bath.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/Asuran.jpg",
+    "likes":0,
+    "views":0,
+    "downloads":0
+},
+
+{
+    "title": "Yen Minukki",
+    "artist":"G.V.Prakash Kumar",
+    "genre":"Love",
+    "year":2019,
+    "duration":272,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Yen Minukki.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/Asuran.jpg",
+    "likes":0,
+    "views":0,
+    "downloads":0
+},
+
+{
+    "title": "Pinju Pinju Mazhai",
+    "artist":"Yuvan Shankar Raja",
+    "genre":"Love",
+    "year":2022,
+    "duration":318,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Pinju Pinju Mazhai.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/NANE VARUVEN.jpg",
+    "likes":0,
+    "views":0,
+    "downloads":0
+},
+
+{
+    "title": "Rendu Raaja",
+    "artist":"Yuvan Shankar Raja",
+    "genre":"Massy",
+    "year":2022,
+    "duration":202,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Rendu Raaja.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/NANE VARUVEN.jpg",
+    "likes":0,
+    "views":0,
+    "downloads":0
+},
+
+{
+    "title": "Veera Soora",
+    "artist":"Yuvan Shankar Raja",
+    "genre":"Massy",
+    "year":2022,
+    "duration":205,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Veera Soora.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/NANE VARUVEN.jpg",
+    "likes":0,
+    "views":0,
+    "downloads":0
+},
+
+{
+    "title": "Yaarum Illa",
+    "artist":"Yuvan Shankar Raja",
+    "genre":"Happy",
+    "year":2022,
+    "duration":205,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Yaarum Illa.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/NANE VARUVEN.jpg",
+    "likes":0,
+    "views":0,
+    "downloads":0
+},
+
+{
+    "title": "Halena",
+    "artist":"Harris Jayaraj",
+    "genre":"Melody",
+    "year":2016,
+    "duration":288,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Halena.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/IRUMUGAN.jpg",
+    "likes":0,
+    "views":0,
+    "downloads":0
+},
+
+{
+    "title": "Irumugan Settai",
+    "artist":"Harris Jayaraj",
+    "genre":"Chase",
+    "year":2016,
+    "duration":245,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Irumugan Settai.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/IRUMUGAN.jpg",
+    "likes":0,
+    "views":0,
+    "downloads":0
+},
+
+{
+    "title": "Kannai Vittu",
+    "artist":"Harris Jayaraj",
+    "genre":"Sorrow",
+    "year":2016,
+    "duration":362,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Kannai Vittu.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/IRUMUGAN.jpg",
+    "likes":0,
+    "views":0,
+    "downloads":0
+},
+
+{
+    "title": "Face Off",
+    "artist":"Harris Jayaraj",
+    "genre":"Theme",
+    "year":2016,
+    "duration":194,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Face Off.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/IRUMUGAN.jpg",
+    "likes":0,
+    "views":0,
+    "downloads":0
+},
+
+
+
+
+
+
+
+
+
 
 
 

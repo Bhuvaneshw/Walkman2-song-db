@@ -5,6 +5,8 @@
     "year":,
     "duration":,
     "url":"https://walkman2-songs-db.netlify.app/songs/.mp3",
-    "icon":"https://walkman2-songs-db.netlify.app/icons/.webp",
-    "likes":0
+    "icon":"https://walkman2-songs-db.netlify.app/icons/",
+    "likes":0,
+    "views":0,
+    "downloads":0
 },
