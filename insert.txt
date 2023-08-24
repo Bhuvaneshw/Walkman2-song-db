@@ -1,12 +1,15 @@
 {
     "title": "",
     "artist":"",
+    "movie":"",
     "genre":"",
     "year":,
     "duration":,
     "url":"https://walkman2-songs-db.netlify.app/songs/.mp3",
     "icon":"https://walkman2-songs-db.netlify.app/icons/",
+     "language":"Tamil",
     "likes":0,
     "views":0,
     "downloads":0
+   
 },

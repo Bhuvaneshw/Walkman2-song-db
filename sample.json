@@ -5,8 +5,12 @@
     "year":2023,
     "duration":77,
     "url":"https://walkman2-songs-db.netlify.app/songs/Alappara-Theme.mp3",
-    "icon":"https://walkman2-songs-db.netlify.app/icons/Jailer.webp",
-    "likes":0
+    "icon":"https://walkman2-songs-db.netlify.app/icons/JAILER.webp",
+    "likes":0,
+    "views":0,
+    "movie":"JAILER",
+    "language":"Tamil",
+    "downloads":0
 },
 
 {
@@ -16,8 +20,12 @@
     "year":2023,
     "duration":207,
     "url":"https://walkman2-songs-db.netlify.app/songs/Hukum.mp3",
-    "icon":"https://walkman2-songs-db.netlify.app/icons/Jailer.webp",
-    "likes":0
+    "icon":"https://walkman2-songs-db.netlify.app/icons/JAILER.webp",
+    "likes":0,
+    "views":0,
+    "movie":"JAILER",
+    "language":"Tamil",
+    "downloads":0
 },
 
 {
@@ -27,8 +35,12 @@
     "year":2023,
     "duration":43,
     "url":"https://walkman2-songs-db.netlify.app/songs/Jailer-Drill-Theme.mp3",
-    "icon":"https://walkman2-songs-db.netlify.app/icons/Jailer.webp",
-    "likes":0
+    "icon":"https://walkman2-songs-db.netlify.app/icons/JAILER.webp",
+    "likes":0,
+    "views":0,
+    "movie":"JAILER",
+    "language":"Tamil",
+    "downloads":0
 },
 
 
@@ -39,8 +51,12 @@
     "year":2023,
     "duration":207,
     "url":"https://walkman2-songs-db.netlify.app/songs/Muthuvel-Pandian-Theme.mp3",
-    "icon":"https://walkman2-songs-db.netlify.app/icons/Jailer.webp",
-    "likes":0
+    "icon":"https://walkman2-songs-db.netlify.app/icons/JAILER.webp",
+    "likes":0,
+    "views":0,
+    "movie":"JAILER",
+    "language":"Tamil",
+    "downloads":0
 },
 
 {
@@ -50,8 +66,12 @@
     "year":2022,
     "duration":143,
     "url":"https://walkman2-songs-db.netlify.app/songs/Once Upon a Time.mp3",
-    "icon":"https://walkman2-songs-db.netlify.app/icons/Vikram.webp",
-    "likes":0
+    "icon":"https://walkman2-songs-db.netlify.app/icons/VIKRAM.webp",
+    "likes":0,
+    "views":0,
+    "movie":"VIKRAM",
+    "language":"Tamil",
+    "downloads":0
 },
 
 {
@@ -61,8 +81,11 @@
     "year":2022,
     "duration":211,
     "url":"https://walkman2-songs-db.netlify.app/songs/Pathala Pathala.mp3",
-    "icon":"https://walkman2-songs-db.netlify.app/icons/Vikram.webp",
-    "likes":0
+    "icon":"https://walkman2-songs-db.netlify.app/icons/VIKRAM.webp",
+    "likes":0,"views":0,
+    "movie":"VIKRAM",
+    "language":"Tamil",
+    "downloads":0
 },
 
 {
@@ -72,8 +95,12 @@
     "year":2022,
     "duration":198,
     "url":"https://walkman2-songs-db.netlify.app/songs/Porkanda Singam.mp3",
-    "icon":"https://walkman2-songs-db.netlify.app/icons/Vikram.webp",
-    "likes":0
+    "icon":"https://walkman2-songs-db.netlify.app/icons/VIKRAM.webp",
+    "likes":0,
+    "views":0,
+    "movie":"VIKRAM",
+    "language":"Tamil",
+    "downloads":0
 },
 
 {
@@ -83,9 +110,11 @@
     "year":2022,
     "duration":182,
     "url":"https://walkman2-songs-db.netlify.app/songs/.mp3",
-    "icon":"https://walkman2-songs-db.netlify.app/icons/Vikram.webp",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/VIKRAM.webp",
     "likes":0,
     "views":0,
+    "movie":"VIKRAM",
+    "language":"Tamil",
     "downloads":0
 },
 
@@ -96,9 +125,11 @@
     "year":2022,
     "duration":273,
     "url":"https://walkman2-songs-db.netlify.app/songs/Devaralan Aattam.mp3",
-    "icon":"https://walkman2-songs-db.netlify.app/icons/ps.jpg",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/PS.jpg",
     "likes":0,
     "views":0,
+    "movie":"PS",
+    "language":"Tamil",
     "downloads":0
 },
 
@@ -109,9 +140,11 @@
     "year":2022,
     "duration":290,
     "url":"https://walkman2-songs-db.netlify.app/songs/Ponni Nadhi.mp3",
-    "icon":"https://walkman2-songs-db.netlify.app/icons/ps.jpg",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/PS.jpg",
     "likes":0,
     "views":0,
+    "movie":"PS",
+    "language":"Tamil",
     "downloads":0
 },
 
@@ -122,9 +155,11 @@
     "year":2022,
     "duration":289,
     "url":"https://walkman2-songs-db.netlify.app/songs/Ratchasa Maamaney.mp3",
-    "icon":"https://walkman2-songs-db.netlify.app/icons/ps.jpg",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/PS.jpg",
     "likes":0,
     "views":0,
+    "movie":"PS",
+    "language":"Tamil",
     "downloads":0
 },
 
@@ -135,9 +170,11 @@
     "year":2022,
     "duration":134,
     "url":"https://walkman2-songs-db.netlify.app/songs/Sol.mp3",
-    "icon":"https://walkman2-songs-db.netlify.app/icons/ps.jpg",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/PS.jpg",
     "likes":0,
     "views":0,
+    "movie":"PS",
+    "language":"Tamil",
     "downloads":0
 },
 
@@ -148,9 +185,11 @@
     "year":2019,
     "duration":225,
     "url":"https://walkman2-songs-db.netlify.app/songs/Kathari Poovazhagi.mp3",
-    "icon":"https://walkman2-songs-db.netlify.app/icons/Asuran.jpg",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/ASURAN.jpg",
     "likes":0,
     "views":0,
+    "movie":"ASURAN",
+    "language":"Tamil",
     "downloads":0
 },
 
@@ -161,9 +200,11 @@
     "year":2019,
     "duration":237,
     "url":"https://walkman2-songs-db.netlify.app/songs/Polladha Boomi.mp3",
-    "icon":"https://walkman2-songs-db.netlify.app/icons/Asuran.jpg",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/ASURAN.jpg",
     "likes":0,
     "views":0,
+    "movie":"ASURAN",
+    "language":"Tamil",
     "downloads":0
 },
 
@@ -174,9 +215,11 @@
     "year":2019,
     "duration":242,
     "url":"https://walkman2-songs-db.netlify.app/songs/The Blood Bath.mp3",
-    "icon":"https://walkman2-songs-db.netlify.app/icons/Asuran.jpg",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/ASURAN.jpg",
     "likes":0,
     "views":0,
+    "movie":"ASURAN",
+    "language":"Tamil",
     "downloads":0
 },
 
@@ -187,9 +230,11 @@
     "year":2019,
     "duration":272,
     "url":"https://walkman2-songs-db.netlify.app/songs/Yen Minukki.mp3",
-    "icon":"https://walkman2-songs-db.netlify.app/icons/Asuran.jpg",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/ASURAN.jpg",
     "likes":0,
     "views":0,
+    "movie":"ASURAN",
+    "language":"Tamil",
     "downloads":0
 },
 
@@ -203,6 +248,8 @@
     "icon":"https://walkman2-songs-db.netlify.app/icons/NANE VARUVEN.jpg",
     "likes":0,
     "views":0,
+    "movie":"NANE VARUVEN",
+    "language":"Tamil",
     "downloads":0
 },
 
@@ -216,6 +263,8 @@
     "icon":"https://walkman2-songs-db.netlify.app/icons/NANE VARUVEN.jpg",
     "likes":0,
     "views":0,
+    "movie":"NANE VARUVEN",
+    "language":"Tamil",
     "downloads":0
 },
 
@@ -229,6 +278,8 @@
     "icon":"https://walkman2-songs-db.netlify.app/icons/NANE VARUVEN.jpg",
     "likes":0,
     "views":0,
+    "movie":"NANE VARUVEN",
+    "language":"Tamil",
     "downloads":0
 },
 
@@ -242,6 +293,8 @@
     "icon":"https://walkman2-songs-db.netlify.app/icons/NANE VARUVEN.jpg",
     "likes":0,
     "views":0,
+    "movie":"NANE VARUVEN",
+    "language":"Tamil",
     "downloads":0
 },
 
@@ -255,6 +308,8 @@
     "icon":"https://walkman2-songs-db.netlify.app/icons/IRUMUGAN.jpg",
     "likes":0,
     "views":0,
+    "movie":"IRUMUGAN",
+    "language":"Tamil",
     "downloads":0
 },
 
@@ -268,6 +323,8 @@
     "icon":"https://walkman2-songs-db.netlify.app/icons/IRUMUGAN.jpg",
     "likes":0,
     "views":0,
+    "movie":"IRUMUGAN",
+    "language":"Tamil",
     "downloads":0
 },
 
@@ -281,6 +338,8 @@
     "icon":"https://walkman2-songs-db.netlify.app/icons/IRUMUGAN.jpg",
     "likes":0,
     "views":0,
+    "movie":"IRUMUGAN",
+    "language":"Tamil",
     "downloads":0
 },
 
@@ -294,16 +353,1109 @@
     "icon":"https://walkman2-songs-db.netlify.app/icons/IRUMUGAN.jpg",
     "likes":0,
     "views":0,
+    "movie":"IRUMUGAN",
+    "language":"Tamil",
     "downloads":0
 },
 
+{
+    "title": "Feel My Love",
+    "artist":"Devi Sri Prasad",
+    "genre":"Love",
+    "year":2010,
+    "duration":297,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Feel My Love.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/KUTTY.jpg",
+    "likes":0,
+    "views":0,
+    "movie":"KUTTY",
+    "language":"Tamil",
+    "downloads":0
+},
+
+{
+    "title": "Nee Kadhalikkum Ponnu",
+    "artist":"Devi Sri Prasad",
+    "genre":"Dance",
+    "year":2010,
+    "duration":268,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Nee Kadhalikkum Ponnu.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/KUTTY.jpg",
+    "likes":0,
+    "views":0,
+    "movie":"KUTTY",
+    "language":"Tamil",
+    "downloads":0
+},
+
+{
+    "title": "Life A Jaali",
+    "artist":"Devi Sri Prasad",
+    "genre":"Happy",
+    "year":2010,
+    "duration":292,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Life A Jaali.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/KUTTY.jpg",
+    "likes":0,
+    "views":0,
+    "movie":"KUTTY",
+    "language":"Tamil",
+    "downloads":0
+},
+
+{
+    "title": "Yaaro En Nenjai",
+    "artist":"Devi Sri Prasad",
+    "genre":"Happy",
+    "year":2010,
+    "duration":310,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Yaaro En Nenjai.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/KUTTY.jpg",
+    "likes":0,
+    "views":0,
+    "movie":"KUTTY",
+    "language":"Tamil",
+    "downloads":0
+},
+
+{
+    "title": "Playing The Pain",
+    "artist":"Ghibran",
+    "genre":"Instrumental",
+    "year":2018,
+    "duration":86,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Playing The Pain.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/RATSASAN.jpg",
+    "likes":0,
+    "views":0,
+    "movie":"RATSASAN",
+    "language":"Tamil",
+    "downloads":0
+},
+
+{
+    "title": "Ratsasan Piano",
+    "artist":"Ghibran",
+    "genre":"Instrumental",
+    "year":2018,
+    "duration":55,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Ratsasan Piano.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/RATSASAN.jpg",
+    "likes":0,
+    "views":0,
+    "movie":"RATSASAN",
+    "language":"Tamil",
+    "downloads":0
+},
+
+{
+    "title": "Beat In The Dark",
+    "artist":"Ghibran",
+    "genre":"Theme",
+    "year":2018,
+    "duration":42,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Beat In The Dark.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/RATSASAN.jpg",
+    "likes":0,
+    "views":0,
+    "movie":"RATSASAN",
+    "language":"Tamil",
+    "downloads":0
+},
+
+{
+    "title": "Clue Is On The Path",
+    "artist":"Ghibran",
+    "genre":"Theme",
+    "year":2018,
+    "duration":45,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Clue Is On The Path.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/RATSASAN.jpg",
+    "likes":0,
+    "views":0,
+    "movie":"RATSASAN",
+    "language":"Tamil",
+    "downloads":0
+},
+
+{
+    "title": "Adiye Sakkarakatti",
+    "artist":"Hiphop Tamizha",
+    "genre":"Hip hop",
+    "year":2017,
+    "duration":189,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Adiye Sakkarakatti.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/MEESAYA MURUKU.jpg",
+    "likes":0,
+    "views":0,
+    "movie":"MEESAYA MURUKU",
+    "language":"Tamil",
+    "downloads":0
+},
+
+{
+    "title": "Enna Nadanthalum",
+    "artist":"Hiphop Tamizha",
+    "genre":"Love",
+    "year":2017,
+    "duration":245,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Enna Nadanthalum.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/MEESAYA MURUKU.jpg",
+    "likes":0,
+    "views":0,
+    "movie":"MEESAYA MURUKU",
+    "language":"Tamil",
+    "downloads":0
+},
+
+{
+    "title": "Meesaya Murukku",
+    "artist":"Hiphop Tamizha",
+    "genre":"Theme",
+    "year":2017,
+    "duration":222,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Meesaya Murukku.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/MEESAYA MURUKU.jpg",
+    "likes":0,
+    "views":0,
+    "movie":"MEESAYA MURUKU",
+    "language":"Tamil",
+    "downloads":0
+},
+
+{
+    "title": "Vaadi Nee Vaadi",
+    "artist":"Hiphop Tamizha",
+    "genre":"Hip hop",
+    "year":2017,
+    "duration":185,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Vaadi Nee Vaadi.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/MEESAYA MURUKU.jpg",
+    "likes":0,
+    "views":0,
+    "movie":"MEESAYA MURUKU",
+    "language":"Tamil",
+    "downloads":0
+},
+
+{
+    "title": "Arutperunjodhi",
+    "artist":"Ilayaraaja",
+    "genre":"Mercy",
+    "year":2023,
+    "duration":212,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Arutperunjodhi.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/VIDUTHALAI.jpg",
+    "likes":0,
+    "views":0,
+    "movie":"VIDUTHALAI",
+    "language":"Tamil",
+    "downloads":0
+},
+
+{
+    "title": "Onnoda Nadandhaa",
+    "artist":"Ilayaraaja",
+    "genre":"Love",
+    "year":2023,
+    "duration":315,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Onnoda Nadandhaa.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/VIDUTHALAI.jpg",
+    "likes":0,
+    "views":0,
+    "movie":"VIDUTHALAI",
+    "language":"Tamil",
+    "downloads":0
+},
+
+{
+    "title": "Kaattumalli",
+    "artist":"Ilayaraaja",
+    "genre":"Love",
+    "year":2023,
+    "duration":306,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Kaattumalli.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/VIDUTHALAI.jpg",
+    "likes":0,
+    "views":0,
+    "movie":"VIDUTHALAI",
+    "language":"Tamil",
+    "downloads":0
+},
+
+{
+    "title": "Valai Osai",
+    "artist":"Ilayaraaja",
+    "genre":"Tempo",
+    "year":2023,
+    "duration":276,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Valai Osai.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/VIDUTHALAI.jpg",
+    "likes":0,
+    "views":0,
+    "movie":"VIDUTHALAI",
+    "language":"Tamil",
+    "downloads":0
+},
+
+{
+    "title": "Sarpatta Parambarai",
+    "artist":"Santhosh Narayanan",
+    "movie":"SARPATTA PARAMBARAI",
+    "genre":"Theme",
+    "year":2021,
+    "duration":34,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Sarpatta Parambarai.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/SARPATTA PARAMBARAI.jpg",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Dancing Rose",
+    "artist":"Santhosh Narayanan",
+    "movie":"SARPATTA PARAMBARAI",
+    "genre":"Theme",
+    "year":2021,
+    "duration":205,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Dancing Rose.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/SARPATTA PARAMBARAI.jpg",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Vambula Thumbula",
+    "artist":"Santhosh Narayanan",
+    "movie":"SARPATTA PARAMBARAI",
+    "genre":"Dance",
+    "year":2021,
+    "duration":304,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Vambula Thumbula.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/SARPATTA PARAMBARAI.jpg",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Vambula Thumbula",
+    "artist":"Santhosh Narayanan",
+    "movie":"SARPATTA PARAMBARAI",
+    "genre":"Dance",
+    "year":2021,
+    "duration":304,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Vambula Thumbula.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/SARPATTA PARAMBARAI.jpg",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Neeye Oli",
+    "artist":"Santhosh Narayanan",
+    "movie":"SARPATTA PARAMBARAI",
+    "genre":"Motive",
+    "year":2021,
+    "duration":237,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Neeye Oli.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/SARPATTA PARAMBARAI.jpg",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Dandaana Darna",
+    "artist":"Vidyasagar",
+    "movie":"KURUVI",
+    "genre":"Dance",
+    "year":2008,
+    "duration":227,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Dandaana Darna.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/KURUVI.jpg",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Thaen Thaen Thaen",
+    "artist":"Vidyasagar",
+    "movie":"KURUVI",
+    "genre":"Melody",
+    "year":2008,
+    "duration":238,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Thaen Thaen Thaen.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/KURUVI.jpg",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Palaanadhu Palaanadhu",
+    "artist":"Vidyasagar",
+    "movie":"KURUVI",
+    "genre":"Dance",
+    "year":2008,
+    "duration":251,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Palaanadhu Palaanadhu.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/KURUVI.jpg",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Kuruvi Theme",
+    "artist":"Vidyasagar",
+    "movie":"KURUVI",
+    "genre":"Theme",
+    "year":2008,
+    "duration":214,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Kuruvi Theme.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/KURUVI.jpg",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Ulaginil Miga",
+    "artist":"Vijay Antony",
+    "movie":"NAAN",
+    "genre":"Sorrow",
+    "year":2012,
+    "duration":287,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Ulaginil Miga.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/NAAN.jpg",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
 
 
+{
+    "title": "Thappellam Thappe Ii",
+    "artist":"Vijay Antony",
+    "movie":"NAAN",
+    "genre":"Instrumental",
+    "year":2012,
+    "duration":156,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Thappellam Thappe Ii.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/NAAN.jpg",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "No One Is Perfect Theme",
+    "artist":"Vijay Antony",
+    "movie":"NAAN",
+    "genre":"Instrumental",
+    "year":2012,
+    "duration":175,
+    "url":"https://walkman2-songs-db.netlify.app/songs/No One Is Perfect Theme.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/NAAN.jpg",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Pichaikkaran Theme",
+    "artist":"Vijay Antony",
+    "movie":"NAAN",
+    "genre":"Theme",
+    "year":2012,
+    "duration":72,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Pichaikkaran Theme.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/NAAN.jpg",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Jai Sulthan",
+    "artist":"Vivek-Mervin",
+    "movie":"SULTAN",
+    "genre":"Dance",
+    "year":2021,
+    "duration":246,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Jai Sulthan.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/SULTAN.jpg",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
 
 
+{
+    "title": "Eppadi Iruntha Naanga",
+    "artist":"Vivek-Mervin",
+    "movie":"SULTAN",
+    "genre":"Scenic",
+    "year":2021,
+    "duration":272,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Eppadi Iruntha Naanga.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/SULTAN.jpg",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
 
 
+{
+    "title": "Yaaro En Nenjai",
+    "artist":"Vivek-Mervin",
+    "movie":"SULTAN",
+    "genre":"Love",
+    "year":2021,
+    "duration":310,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Yaaro En Nenjai.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/SULTAN.jpg",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
 
+
+{
+    "title": "Pudhu Saththam",
+    "artist":"Vivek-Mervin",
+    "movie":"SULTAN",
+    "genre":"Dance",
+    "year":2021,
+    "duration":300,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Pudhu Saththam.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/SULTAN.jpg",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Iraivanai Thandha Iraiviye",
+    "artist":"Sean Roldan",
+    "movie":"VIP 2",
+    "genre":"Love",
+    "year":2017,
+    "duration":192,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Iraivanai Thandha Iraiviye.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/VIP 2.jpg",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Nada Da Raja",
+    "artist":"Sean Roldan",
+    "movie":"VIP 2",
+    "genre":"Rap",
+    "year":2017,
+    "duration":210,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Nada Da Raja.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/VIP 2.jpg",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "The Empress Arrives",
+    "artist":"Sean Roldan",
+    "movie":"VIP 2",
+    "genre":"Theme",
+    "year":2017,
+    "duration":129,
+    "url":"https://walkman2-songs-db.netlify.app/songs/The Empress Arrives.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/VIP 2.jpg",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Ucchathula",
+    "artist":"Sean Roldan",
+    "movie":"VIP 2",
+    "genre":"Dance",
+    "year":2017,
+    "duration":215,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Ucchathula.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/VIP 2.jpg",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Karuppu Vellai",
+    "artist":"Sam C.S",
+    "movie":"VIKRAM VEDHA",
+    "genre":"Theme",
+    "year":2017,
+    "duration":195,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Karuppu Vellai.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/VIKRAM VEDHA.webp",
+    "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+
+{
+    "title": "Yaanji",
+    "artist":"Sam C.S",
+    "movie":"VIKRAM VEDHA",
+    "genre":"Love",
+    "year":2017,
+    "duration":270,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Yaanji.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/VIKRAM VEDHA.webp",
+    "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+
+{
+    "title": "Oru Katha Sollatta",
+    "artist":"Sam C.S",
+    "movie":"VIKRAM VEDHA",
+    "genre":"Scenic",
+    "year":2017,
+    "duration":84,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Oru Katha Sollatta.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/VIKRAM VEDHA.webp",
+    "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+
+{
+    "title": "Yethu Dharmam",
+    "artist":"Sam C.S",
+    "movie":"VIKRAM VEDHA",
+    "genre":"Scenic",
+    "year":2017,
+    "duration":96,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Yethu Dharmam.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/VIKRAM VEDHA.webp",
+    "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+
+{
+    "title": "Kaithi Main Theme",
+    "artist":"Sam C.S",
+    "movie":"KAITHI",
+    "genre":"Theme",
+    "year":2019,
+    "duration":28,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Kaithi Main Theme.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/KAITHI.webp",
+    "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Dilli's Swag",
+    "artist":"Sam C.S",
+    "movie":"KAITHI",
+    "genre":"Theme",
+    "year":2019,
+    "duration":50,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Dilli's Swag.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/KAITHI.webp",
+    "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Eternal Love Of Father",
+    "artist":"Sam C.S",
+    "movie":"KAITHI",
+    "genre":"Love",
+    "year":2019,
+    "duration":194,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Eternal Love Of Father.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/KAITHI.webp",
+    "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Night Is Dark",
+    "artist":"Sam C.S",
+    "movie":"KAITHI",
+    "genre":"Theme",
+    "year":2019,
+    "duration":113,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Night Is Dark.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/KAITHI.webp",
+    "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "I Love My Africa",
+    "artist":"A R.Rahman",
+    "movie":"MARYAN",
+    "genre":"Happy",
+    "year":2013,
+    "duration":173,
+    "url":"https://walkman2-songs-db.netlify.app/songs/I Love My Africa.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/MARYAN.webp",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+
+{
+    "title": "Sonapareeya",
+    "artist":"A R.Rahman",
+    "movie":"MARYAN",
+    "genre":"Dance",
+    "year":2013,
+    "duration":249,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Sonapareeya.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/MARYAN.webp",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+
+{
+    "title": "Kadal Raasa Naan",
+    "artist":"A R.Rahman",
+    "movie":"MARYAN",
+    "genre":"Happy",
+    "year":2013,
+    "duration":254,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Kadal Raasa Naan.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/MARYAN.webp",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Innum Konjam Neram",
+    "artist":"A R.Rahman",
+    "movie":"MARYAN",
+    "genre":"Love",
+    "year":2013,
+    "duration":313,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Innum Konjam Neram.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/MARYAN.webp",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Raawadi",
+    "artist":"A R.Rahman",
+    "movie":"PATHU THALA",
+    "genre":"Dance",
+    "year":2023,
+    "duration":191,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Raawadi.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/PATHU THALA.webp",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Osarattum Pathu Thala",
+    "artist":"A R.Rahman",
+    "movie":"PATHU THALA",
+    "genre":"Massy",
+    "year":2023,
+    "duration":290,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Osarattum Pathu Thala.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/PATHU THALA.webp",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Namma Satham",
+    "artist":"A R.Rahman",
+    "movie":"PATHU THALA",
+    "genre":"Dance",
+    "year":2023,
+    "duration":215,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Namma Satham.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/PATHU THALA.webp",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Nee Singam Dhan",
+    "artist":"A R.Rahman",
+    "movie":"PATHU THALA",
+    "genre":"Motive",
+    "year":2023,
+    "duration":247,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Nee Singam Dhan.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/PATHU THALA.webp",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Vandhaai Ayya",
+    "artist":"M M.KEERAVANI",
+    "movie":"BAHUBALI",
+    "genre":"Mercy",
+    "year":2015,
+    "duration":212,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Vandhaai Ayya.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/BAHUBALI.jpg",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+},
+
+{
+    "title": "Bale Bale",
+    "artist":"M M.KEERAVANI",
+    "movie":"BAHUBALI",
+    "genre":"Scenic",
+    "year":2015,
+    "duration":204,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Bale Bale.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/BAHUBALI.jpg",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+},
+
+{
+    "title": "Moochile Theeyumaay",
+    "artist":"M M.KEERAVANI",
+    "movie":"BAHUBALI",
+    "genre":"Sorrow",
+    "year":2015,
+    "duration":189,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Moochile Theeyumaay.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/BAHUBALI.jpg",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+},
+
+{
+    "title": "Siva Sivaya Potri",
+    "artist":"M M.KEERAVANI",
+    "movie":"BAHUBALI",
+    "genre":"Mercy",
+    "year":2015,
+    "duration":195,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Siva Sivaya Potri.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/BAHUBALI.jpg",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+},
+
+{
+    "title": "Aaromal",
+    "artist":"Shaan Rahman",
+    "movie":"MINNAL MURALI",
+    "genre":"Scenic",
+    "year":2018,
+    "duration":244,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Aaromal.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/MINNAL MURALI.jpg",
+     "language":"Malayalam",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Kugramame",
+    "artist":"Shaan Rahman",
+    "movie":"MINNAL MURALI",
+    "genre":"Scenic",
+    "year":2018,
+    "duration":98,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Kugramame.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/MINNAL MURALI.jpg",
+     "language":"Malayalam",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Niranju Thaarakangal",
+    "artist":"Shaan Rahman",
+    "movie":"MINNAL MURALI",
+    "genre":"Hip hop",
+    "year":2018,
+    "duration":109,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Niranju Thaarakangal.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/MINNAL MURALI.jpg",
+     "language":"Malayalam",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Thee Minnal",
+    "artist":"Shaan Rahman",
+    "movie":"MINNAL MURALI",
+    "genre":"Theme",
+    "year":2018,
+    "duration":132,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Thee Minnal.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/MINNAL MURALI.jpg",
+     "language":"Malayalam",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "ButtaBomma",
+    "artist":"Thaman",
+    "movie":"ALA VAIKUNTHAPURAMULO",
+    "genre":"Hip hop",
+    "year":2019,
+    "duration":195,
+    "url":"https://walkman2-songs-db.netlify.app/songs/ButtaBomma.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/ALA VAIKUNTHAPURAMULO.jpg",
+     "language":"Telugu",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+
+{
+    "title": "Ramuloo Ramulaa",
+    "artist":"Thaman",
+    "movie":"ALA VAIKUNTHAPURAMULO",
+    "genre":"Dance",
+    "year":2019,
+    "duration":245,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Ramuloo Ramulaa.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/ALA VAIKUNTHAPURAMULO.jpg",
+     "language":"Telugu",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+
+{
+    "title": "Sittharala Sirapadu",
+    "artist":"Thaman",
+    "movie":"ALA VAIKUNTHAPURAMULO",
+    "genre":"Tempo",
+    "year":2019,
+    "duration":184,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Sittharala Sirapadu.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/ALA VAIKUNTHAPURAMULO.jpg",
+     "language":"Telugu",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+
+{
+    "title": "Ala Vaikunthapurramuloo",
+    "artist":"Thaman",
+    "movie":"ALA VAIKUNTHAPURAMULO",
+    "genre":"Theme",
+    "year":2019,
+    "duration":193,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Ala Vaikunthapurramuloo.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/ALA VAIKUNTHAPURAMULO.jpg",
+     "language":"Telugu",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Believer",
+    "artist":"Daniel Coulter",
+    "movie":"ALBUM",
+    "genre":"Pop",
+    "year":2017,
+    "duration":204,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Believer.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/BELEIVER.jpg",
+     "language":"English",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "",
+    "artist":"",
+    "movie":"",
+    "genre":"",
+    "year":,
+    "duration":,
+    "url":"https://walkman2-songs-db.netlify.app/songs/.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+
+{
+    "title": "",
+    "artist":"",
+    "movie":"",
+    "genre":"",
+    "year":,
+    "duration":,
+    "url":"https://walkman2-songs-db.netlify.app/songs/.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/",
+     "language":"Tamil",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+
+{
+    "title": "Arcade",
+    "artist":"Ducan Laurence",
+    "movie":"ALBUM",
+    "genre":"",
+    "year":,
+    "duration":,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Arcade.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/ARCADE.jpg",
+     "language":"English",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
 
 
 
