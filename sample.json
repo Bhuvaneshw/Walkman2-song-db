@@ -1408,15 +1408,15 @@
 },
 
 {
-    "title": "",
-    "artist":"",
-    "movie":"",
-    "genre":"",
-    "year":,
-    "duration":,
-    "url":"https://walkman2-songs-db.netlify.app/songs/.mp3",
-    "icon":"https://walkman2-songs-db.netlify.app/icons/",
-     "language":"Tamil",
+    "title": "Lets Dance Chotu Motu",
+    "artist":"Devi Sri Prasad",
+    "movie":"KISI KI BHAI",
+    "genre":"Dance",
+    "year":2023,
+    "duration":200,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Lets Dance Chotu Motu.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/KISI KI BHAI.jpg",
+     "language":"English",
     "likes":0,
     "views":0,
     "downloads":0
@@ -1425,15 +1425,15 @@
 
 
 {
-    "title": "",
-    "artist":"",
-    "movie":"",
-    "genre":"",
-    "year":,
-    "duration":,
-    "url":"https://walkman2-songs-db.netlify.app/songs/.mp3",
-    "icon":"https://walkman2-songs-db.netlify.app/icons/",
-     "language":"Tamil",
+    "title": "Air Drop Carnival",
+    "artist":"Alan Walker",
+    "movie":"ALBUM",
+    "genre":"Theme",
+    "year":2023,
+    "duration":75,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Air Drop Carnival.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/AIRDROP CARNIVAL.jpg",
+     "language":"English",
     "likes":0,
     "views":0,
     "downloads":0
@@ -1445,9 +1445,9 @@
     "title": "Arcade",
     "artist":"Ducan Laurence",
     "movie":"ALBUM",
-    "genre":"",
-    "year":,
-    "duration":,
+    "genre":"Pop",
+    "year":2019,
+    "duration":183,
     "url":"https://walkman2-songs-db.netlify.app/songs/Arcade.mp3",
     "icon":"https://walkman2-songs-db.netlify.app/icons/ARCADE.jpg",
      "language":"English",
@@ -1456,6 +1456,141 @@
     "downloads":0
    
 },
+
+{
+    "title": "Toofan",
+    "artist":"Ravi Barsur",
+    "movie":"KGF",
+    "genre":"Hight octane",
+    "year":2018,
+    "duration":213,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Toofan.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/KGF.jpg",
+     "language":"Kannada",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Mehabooba",
+    "artist":"Ravi Barsur",
+    "movie":"KGF",
+    "genre":"Melody",
+    "year":2018,
+    "duration":213,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Mehabooba.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/KGF.jpg",
+     "language":"Kannada",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Sulthana",
+    "artist":"Ravi Barsur",
+    "movie":"KGF",
+    "genre":"Hight octane",
+    "year":2018,
+    "duration":228,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Sulthana.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/KGF.jpg",
+     "language":"Kannada",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "The Monster",
+    "artist":"Ravi Barsur",
+    "movie":"KGF",
+    "genre":"Rock",
+    "year":2018,
+    "duration":166,
+    "url":"https://walkman2-songs-db.netlify.app/songs/The Monster.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/KGF.jpg",
+     "language":"Kannada",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Dance Pe Chance",
+    "artist":"Salim",
+    "movie":"RAB NE BANA DI JODI",
+    "genre":"Dance",
+    "year":2008,
+    "duration":262,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Dance Pe Chance.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/RAB NE BANA DI JODI.jpg",
+     "language":"Hindi",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Dancing Jodi",
+    "artist":"Salim",
+    "movie":"RAB NE BANA DI JODI",
+    "genre":"Dance",
+    "year":2008,
+    "duration":239,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Dancing Jodi.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/RAB NE BANA DI JODI.jpg",
+     "language":"Hindi",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Haule Haule",
+    "artist":"Salim",
+    "movie":"RAB NE BANA DI JODI",
+    "genre":"Pop",
+    "year":2008,
+    "duration":265,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Haule Haule.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/RAB NE BANA DI JODI.jpg",
+     "language":"Hindi",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+{
+    "title": "Tujh Mein Rab Dikhta Hai",
+    "artist":"Salim",
+    "movie":"RAB NE BANA DI JODI",
+    "genre":"Love",
+    "year":2008,
+    "duration":284,
+    "url":"https://walkman2-songs-db.netlify.app/songs/Tujh Mein Rab Dikhta Hai.mp3",
+    "icon":"https://walkman2-songs-db.netlify.app/icons/RAB NE BANA DI JODI.jpg",
+     "language":"Hindi",
+    "likes":0,
+    "views":0,
+    "downloads":0
+   
+},
+
+
+
+
+
+
+
 
 
 
